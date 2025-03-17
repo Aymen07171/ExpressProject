@@ -1,0 +1,8 @@
+#npm init to initiate the project 
+# Create .gitignore file 
+# Create Server.js file 
+# Execute this command : npm install express 
+# Add the dev & start to the scripts in Package.json
+#
+#
+
